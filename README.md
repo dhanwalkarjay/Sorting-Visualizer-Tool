@@ -2,7 +2,7 @@
 
 Welcome to the Sorting Visualizer Tool repository!
 
-![Image Description]()
+![Image Description](Home_Screen.png)
 
 ## Overview
 This repository hosts a Sorting Visualizer Tool, designed to provide a visual representation of various sorting algorithms. Whether you're a beginner learning about sorting algorithms or an experienced developer looking to visualize their performance, this tool has you covered.
