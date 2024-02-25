@@ -27,14 +27,10 @@ To get started with the Sorting Visualizer Tool, simply clone this repository to
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 - This project was inspired by the desire to provide an interactive learning tool for understanding sorting algorithms.
-- Special thanks to [insert contributors' names here] for their contributions to this project.
 
 ## Contact
-If you have any questions, suggestions, or feedback, feel free to contact us at [insert contact email here]. We'd love to hear from you!
+If you have any questions, suggestions, or feedback, feel free to contact us at jaydhanwalkar123@gmail.com. We'd love to hear from you!
 
 Happy Sorting! 🚀
